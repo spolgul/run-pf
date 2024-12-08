@@ -1,0 +1,6 @@
+python=="^3.10.1"
+torch==">=1.9.0,<3.0.0"
+tqdm=="^4.62.3"
+numpy=="^1.26"
+# pfhedge==">=0.23"
+pfhedge @ git+git:///github.com/pfnet-research/pfhedget/pfhedge@main
